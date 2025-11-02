@@ -210,6 +210,12 @@ All deliverables include:
 
 ## 🎨 Examples
 
+### Detailed Examples
+
+Check out our [examples directory](./examples/) for complete project walkthroughs:
+
+- **[Real-Time Collaborative Document Editor](./examples/collaborative-editor.md)**: Complete guide from requirements to deployment
+
 ### Use Cases
 
 - **Web Applications**: Full-stack development with modern frameworks
