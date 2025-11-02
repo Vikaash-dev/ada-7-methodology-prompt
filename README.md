@@ -290,8 +290,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Inspired by systematic software engineering methodologies
 - Built on evidence-based development practices
-- Designed for the AI-assisted development era
-
+- Designed for the AI-assisted development era 
+    
+A GPT-4 AI Tutor Prompt for customizable personalized learning experience 
+  **ustomizable prompt that delivers personalized learning experiences for users with diverse needs and interests.**
+  ---  https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor  --- Star 30K 
 ---
 
 <div align="center">
