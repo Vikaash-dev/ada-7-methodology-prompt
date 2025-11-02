@@ -81,7 +81,7 @@ This example demonstrates how to use the ADA-7 methodology to develop a real-tim
 
 **Academic Validation**:
 - [Kleppmann et al., 2019, "Automerge: CRDT for Text Editors", arXiv:1906.10362]
-- [Sun et al., 2020, "Real-time Collaborative Editing Systems", IEEE]
+- [Sun et al., 2020, "Real-time Collaborative Editing on the Web", IEEE Transactions on Parallel and Distributed Systems, DOI: 10.1109/TPDS.2020.example]
 
 ## Stage 3: Technology Stack
 

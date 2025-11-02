@@ -45,7 +45,7 @@ ADA-7 is a comprehensive development methodology prompt that guides AI assistant
 
 ### Core Capabilities
 
-- **📚 Evidence-Based Development**: Leverages academic research (arXiv 2019-2025) and industry implementations (GitHub trending repos)
+- **📚 Evidence-Based Development**: Leverages academic research (arXiv 2019-present) and industry implementations (GitHub trending repos)
 - **🎯 Structured Approach**: Follows a proven 7-stage methodology from requirements to maintenance
 - **🔍 Competitive Intelligence**: Analyzes existing solutions to identify gaps and opportunities
 - **📊 Quantitative Analysis**: Uses metrics, benchmarks, and data-driven decision making
